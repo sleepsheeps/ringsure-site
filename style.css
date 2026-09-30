@@ -16,7 +16,7 @@ html { background: var(--bg); }
 body { margin: 0; color: var(--text); font-family: var(--body); line-height: 1.6; -webkit-font-smoothing: antialiased; min-height: 100vh; }
 main { max-width: 680px; margin: 0 auto; padding: 40px 22px 72px; }
 .top { display: flex; align-items: center; gap: 12px; text-decoration: none; }
-.top img { width: 30px; height: 33px; }
+.top img { width: 28px; height: 34px; }
 .top span { font-family: var(--mark); font-weight: 500; font-size: 20px; letter-spacing: 5px; color: var(--text); }
 h1 { font-family: var(--display); font-weight: 500; font-size: 42px; line-height: 1.12; margin: 38px 0 0; }
 h1 em { font-style: italic; color: var(--gold-deep); }
